@@ -12,8 +12,8 @@
 #mainNav .navbar-toggler {
   font-size: 80%;
   padding: 0.75rem;
-  color: #64a19d;
-  border: 1px solid #64a19d;
+  color: black;
+  border: 1px solid black;
 }
 
 #mainNav .navbar-toggler:focus {
@@ -107,7 +107,7 @@
   letter-spacing: 0.8rem;
   background: -webkit-linear-gradient(rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0));
   -webkit-text-fill-color: transparent;
-  -webkit-background-clip: text;
+  /* -webkit-background-clip: text; */
 }
 
 .masthead h2 {
@@ -259,7 +259,7 @@
   text-align: center;
   height: 3rem;
   width: 3rem;
-  background: rgba(255, 255, 255, 0.1);
+  background:black (255, 255, 255, 0.1);
   border-radius: 100%;
   line-height: 3rem;
   color: rgba(255, 255, 255, 0.3);
@@ -292,11 +292,11 @@ a:focus, a:hover {
 }
 
 .bg-primary {
-  background-color: #64a19d !important;
+  background-color: black !important;
 }
 
 .text-primary {
-  color: #64a19d !important;
+  color:black !important;
 }
 
 footer {
